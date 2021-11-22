@@ -1,0 +1,10 @@
+
+
+
+modulo de alamcenes asignacion de nuevos permisos
+
+-accesos a fronted
+asignar
+
+-acesos a servicios
+api_eliminar_asignacion,api_guardar_almacen_empleado,api_obtener_almacenes,api_obtener_empleados
